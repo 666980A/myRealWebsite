@@ -1,0 +1,19 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../Images/Mountains.jpg");
+    background-repeat: no-repeat;
+    width: auto; height: auto;
+    background-size: cover;
+}
+h1 {
+  padding-right:90px
+
+}
+
+
+ button{
+    cursor: pointer;
+}
+p {
+  background-image: none;
+}
